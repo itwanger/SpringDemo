@@ -1,0 +1,9 @@
+
+Ysquid:UselessImportCheck".Remove this unused import 'basic.HelloConfig'.(Î«ü™8É¤Õæ‹.
+Xsquid:S1854
+";Remove this useless assignment to local variable "service".(ñå…O8¯áíæ‹.
+Zsquid:UselessImportCheck"/Remove this unused import 'basic.HelloService'.(Ý‚œä8 õÔæ‹.
+Isquid:S1481
+",Remove this unused "service" local variable.(ñå…O8¯áíæ‹.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª…‡¼ùÿÿÿÿ8Ö€Ìç‹.

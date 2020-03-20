@@ -1,0 +1,12 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ8ÑÝ›Ô‹.
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¥á²Œùÿÿÿÿ8Õñ«Ô‹.
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(ð´É‡ùÿÿÿÿ8‚”²Ô‹.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(• Äà8Õñ«Ô‹.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÍŠÊ¤üÿÿÿÿ8Ô‚žÔ‹.
+}squid:UselessImportCheck"RRemove this unused import 'org.springframework.context.annotation.PropertySource'.(™¢˜é8Ç‘ŠÕ‹.
